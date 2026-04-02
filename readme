@@ -1,0 +1,6 @@
+Upgrade_mxone.py  
+line 566 and 568 we need to give link for download and bin file name
+
+
+.env file 
+give details to upgarde mxone
